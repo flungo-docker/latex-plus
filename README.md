@@ -4,5 +4,6 @@ A docker container for building LaTeX documents with additional utilities. This 
 
 - [make](http://packages.ubuntu.com/xenial/devel/make)
 - [poppler-utils](http://packages.ubuntu.com/xenial/poppler-utils)
+- [imagemagick](http://packages.ubuntu.com/xenial/imagemagick)
 
 For details on the usage of the image, see [flungo/latex](https://hub.docker.com/r/flungo/latex/).
