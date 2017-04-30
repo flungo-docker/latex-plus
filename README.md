@@ -6,5 +6,6 @@ A docker container for building LaTeX documents with additional utilities. This 
 - [biber](http://packages.ubuntu.com/xenial/biber)
 - [poppler-utils](http://packages.ubuntu.com/xenial/poppler-utils)
 - [imagemagick](http://packages.ubuntu.com/xenial/imagemagick)
+- [librsvg2-bin](http://packages.ubuntu.com/xenial/librsvg2-bin)
 
 For details on the usage of the image, see [flungo/latex](https://hub.docker.com/r/flungo/latex/).
